@@ -1,6 +1,6 @@
 # Better ConsolePauser
 
-这个程序改进了 `ConsolePauser.exe`，使其能够提供更多的参考信息。
+这个程序改进了 `ConsolePauser.exe`，使其能够提供更多的参考信息（如程序运行 CPU 时间、使用内存峰值等）。
 
 ## 介绍
 
