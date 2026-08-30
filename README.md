@@ -28,6 +28,6 @@
 
 ### 使用该程序
 
-将程序重命名为 `ConsolePauser.exe`，随后复制到原本的 `ConsolePauser.exe` 所在的位置（通常是 IDE 的安装目录），替换原文件即可。
+将程序重命名为 `ConsolePauser.exe`，随后移动到原本的 `ConsolePauser.exe` 所在的位置（通常是 IDE 的安装目录），替换原文件即可。
 
 此时使用 IDE 的“运行”功能，就能正常使用该程序了。
