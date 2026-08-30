@@ -4,7 +4,7 @@
 
 ## 介绍
 
-### ConsolePauser 是什么？
+### `ConsolePauser.exe` 是什么？
 
 `ConsolePauser.exe` 是 Dev C++ 等众多主流 C++ 便携式 IDE 在运行程序时给程序套的一层“壳”，在程序运行完后显示关于程序运行的一些参考信息（通常是程序运行的墙上时钟时间），随后等待用户按任意键退出。
 
@@ -28,6 +28,6 @@
 
 ### 使用该程序
 
-将程序复制到原本的 `ConsolePauser.exe` 所在的位置（通常是 IDE 的安装目录），替换原文件即可。
+将程序重命名为 `ConsolePauser.exe`，随后复制到原本的 `ConsolePauser.exe` 所在的位置（通常是 IDE 的安装目录），替换原文件即可。
 
 此时使用 IDE 的“运行”功能，就能正常使用该程序了。
